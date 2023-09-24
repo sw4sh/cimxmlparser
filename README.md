@@ -1,2 +1,2 @@
-# cimxmlparser
-Python parser/writer for CIMXML format
+# CIMXMLPARSER
+Package for interacting with CIMXML structure files.
