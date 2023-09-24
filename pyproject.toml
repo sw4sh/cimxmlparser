@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0", "lxml>=4.9.2"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "cimxmlparser"
+version = "0.2.6.2dev"
+description = 'Package for interacting with CIMXML structure files.'
+license = {file = "LICENSE.txt"}
+authors = [{name = "Segrenev Mikhail" }]
+keywords = ["CIM", "XML", "CIMXML", "Parse"]
+readme = "README.md"
+requires-python = ">=3.11"
+[project.urls]
+Repository = "https://github.com/sw4sh/cimxmlparser/"
+
+
